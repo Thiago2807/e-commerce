@@ -7,4 +7,9 @@
     <RootNamespace>api_gtw</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.20" />
+    <PackageReference Include="Ocelot" Version="24.0.1" />
+  </ItemGroup>
+
 </Project>
