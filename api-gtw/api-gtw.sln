@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-gtw", "api-gtw.csproj", "{59052729-7596-471F-B043-DF54E9AC3C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59052729-7596-471F-B043-DF54E9AC3C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59052729-7596-471F-B043-DF54E9AC3C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59052729-7596-471F-B043-DF54E9AC3C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59052729-7596-471F-B043-DF54E9AC3C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B11A0E2-11CF-46A8-B60E-A4BB76700C9B}
+	EndGlobalSection
+EndGlobal
